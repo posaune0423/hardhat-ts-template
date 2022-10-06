@@ -2,6 +2,8 @@
   "name": "hardhat-ts-template",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/test-helpers": "^0.5.16",
     "hardhat": "^2.11.2"
-  }
+  },
 }
